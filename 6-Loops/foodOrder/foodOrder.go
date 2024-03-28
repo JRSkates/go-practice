@@ -49,3 +49,5 @@ func main() {
 
 	fmt.Println("You're all paid up, enjoy your food!")
 }
+
+// More functions to be added
