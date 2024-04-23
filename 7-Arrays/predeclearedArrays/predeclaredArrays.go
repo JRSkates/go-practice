@@ -7,3 +7,5 @@ func main() {
   var playerNames [5]string
   fmt.Println(playerNames)
 }
+
+// More array functions to be added
