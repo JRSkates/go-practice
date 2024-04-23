@@ -7,3 +7,5 @@ func main() {
   lotteryNumbers := [...]int{5, 48, 32, 1, 6}
   fmt.Println(lotteryNumbers)
 }
+
+// More array functions to be added
