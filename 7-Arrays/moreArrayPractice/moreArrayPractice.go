@@ -28,3 +28,5 @@ func main() {
 	fmt.Println("Length of slice:", len(slicedArray))
 	fmt.Println("Capacity of slice:", cap(slicedArray))
 }
+
+// more array functions to be added
